@@ -1,9 +1,9 @@
 # Auto-React-FB (Heart ko Facebook mo <3)
 
-##Description
+## Description
 "Heart ko Facebook mo <3" is a Python-based application that automates the process of reacting to posts on Facebook. It allows users to log in with their Facebook credentials, visit a specific page, and react to a predefined number of posts with "hearts" or "likes" automatically.
 
-##Requirements
+## Requirements
 To run the Heart ko Facebook mo <3 application, you will need the following:
 -Python 3.7 or higher
 -Pyppeteer
