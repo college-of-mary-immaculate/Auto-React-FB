@@ -13,7 +13,7 @@ To run the Heart ko Facebook mo <3 application, you will need the following:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/Auto-React-FB.git
+git clone https://github.com/college-of-mary-immaculate/Auto-React-FB.git
 ```
 
 ### 2. Install Dependencies
