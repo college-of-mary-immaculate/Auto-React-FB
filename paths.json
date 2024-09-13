@@ -1,0 +1,22 @@
+{
+    "chrome": {
+        "label": "Google Chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    "facebook_login": {
+        "label": "Facebook Login Page",
+        "url": "https://www.facebook.com/login/"
+    },
+    "facebook_love_reactions": {
+        "label": "Facebook Post Love Reactions",
+        "path": "div[aria-label='Love']"
+    },
+    "facebook_like_reactions": {
+        "label": "Facebook Post Like Reactions",
+        "path": "div[aria-label='Like']"
+    },
+    "scroll_button": {
+        "label": "Facebook Scroll Button",
+        "path": "i[style*='background-image: url(https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/2xASrRpIjXi.png)']"
+    }
+}
