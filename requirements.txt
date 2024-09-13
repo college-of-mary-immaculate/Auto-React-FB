@@ -1,0 +1,4 @@
+asyncio
+pyppeteer==0.2.6
+random
+tk
