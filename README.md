@@ -5,9 +5,9 @@
 
 ## Requirements
 To run the Heart ko Facebook mo <3 application, you will need the following:
--Python 3.7 or higher
--Pyppeteer
--Tkinter (for the GUI)
+- Python 3.7 or higher
+- Pyppeteer
+- Tkinter (for the GUI)
 
 ## How to Use
 
